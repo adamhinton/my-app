@@ -1,15 +1,16 @@
+"use client";
 import styled from "styled-components";
 
 export default function Home() {
 	return (
 		<div>
 			<main>
-				<StyledDiv />
+				<StyledDiv>fjdsakl;fas</StyledDiv>
 			</main>
 		</div>
 	);
 }
 
 const StyledDiv = styled.div`
-	color: red;
+	color: white;
 `;
