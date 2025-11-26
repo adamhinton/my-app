@@ -5,7 +5,7 @@ export default function Home() {
 	return (
 		<div>
 			<main>
-				<StyledDiv>fjdsakl;fas</StyledDiv>
+				<StyledDiv>Test</StyledDiv>
 			</main>
 		</div>
 	);
